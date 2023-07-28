@@ -206,7 +206,7 @@ bar {
 
 
 exec nitrogen --restore &
-#exec picom &
+exec picom &
 exec xrandr --output eDP-1 --dpi 200
 #key binds
 
