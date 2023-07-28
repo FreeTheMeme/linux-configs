@@ -1,4 +1,2 @@
 # linux-configs
-# linux-configs
-# linux-configs
-# linux-configs
+these are my config files for i3-wm
